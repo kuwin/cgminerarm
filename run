@@ -1,0 +1,1 @@
+./cgminer -a scrypt -o stratum+tcp://scrypt.asia.mine.zergpool.com:3433 -u D7c5wJP8UKgzgAfXnBbYi7bDtd9MBx2a2n --timeout 120 -p c=DGB,mc=DGB,ID=J3 -t 8
